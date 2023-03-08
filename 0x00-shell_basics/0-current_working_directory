@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 /c/Users/Hassna AARIACHI/Desktop/ALEX PROGRAM/My-Github/alx-system_engineering-devops/0x00-shell_basics
-=======
-#!/bin/bash
-echo ${BASH_SOURCE:-$0} echo dirname
->>>>>>> 54015fa803dbf66a9f174242794976f897f43bbc

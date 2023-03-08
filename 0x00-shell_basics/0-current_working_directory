@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "./0-current_working_directory" readlink -f “${BASH_SOURCE:-$0}
+echo "./0-current_working_directory" pwd
